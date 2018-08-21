@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SFTP</key>
+	<dict>
+		<key>remotePath</key>
+		<string>/app/web/download/URL</string>
+		<key>appName</key>
+		<string>projectName</string>
+		<key>ftpServer</key>
+		<string>10.100.210.197</string>
+		<key>userName</key>
+		<string>root</string>
+		<key>passWord</key>
+		<string>XXXXXX</string>
+	</dict>
+</dict>
+</plist>

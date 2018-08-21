@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ProjectName</key>
+	<dict>
+		<key>exportOptionPath</key>
+		<string>/Users/admin/Desktop/PackRobot/ExportOptions.plist</string>
+		<key>configuration</key>
+		<string>Debug</string>
+		<key>signingCertificate</key>
+		<string>iPhone Distribution: XXXXXXXXXXXLtd.</string>
+		<key>mobileprovisionUuid</key>
+		<string>65768f78-2e8b-XXXXXXXX-1bc7101e3dc5</string>
+		<key>scheme</key>
+		<string>ProjectName</string>
+		<key>projectType</key>
+		<string>-project</string>
+		<key>name</key>
+		<string>ProjectName</string>
+		<key>projectPath</key>
+		<string>/Users/admin/Desktop/APP/ProjectName</string>
+	</dict>
+</dict>
+</plist>

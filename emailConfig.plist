@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appName</key>
+	<string>ProjectName</string>
+	<key>smtpServer</key>
+	<string>smtp.XXX.com</string>
+	<key>passWord</key>
+	<string>XXXXXX</string>
+	<key>fromAddr</key>
+	<string>XXX@XXX.com</string>
+	<key>toAddr</key>
+	<array>
+		<string>XXX@XXX.com</string>
+		<string>XXX@XXX.com</string>
+	</array>
+</dict>
+</plist>
