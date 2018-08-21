@@ -172,13 +172,17 @@ def emailSend(dic):
 	email=EmailUtil(dic)
 	email.send_mail()
 ```
+
+```
 if __name__ == '__main__':
 	reload(sys) 
 	sys.setdefaultencoding("utf-8")
+    #读取配置文件
 	plist=plistlib.readPlist(plist_path)
 	uploadPlist=plistlib.readPlist(uploadPlist_path)
 	emailPlist=plistlib.readPlist(email_Path)
 	print(uploadPlist)
+    #for 循环 多项目构建
 	for i,value in plist.items():
 		creat_folder(i)
 		clean_project(i,value)
@@ -193,3 +197,4 @@ if __name__ == '__main__':
 				sftp(iup,valueup,value["name"],ipaPath)
 			emailSend(emailPlist)
 
+```
